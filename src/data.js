@@ -44,5 +44,5 @@ export const skills = [
   "Next.js",
   "Node",
   "GraphQL",
-  "fucking my girl goooodd",
+  "SQL",
 ];
