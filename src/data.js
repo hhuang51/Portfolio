@@ -5,7 +5,7 @@ export const projects = [
     description:
       "This is my first project! I built this with Javascript, html, css and ReactJS!",
     image: "./project-1.png",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/hhuang51/Portfolio",
   },
   {
     title: "React Tracks",
